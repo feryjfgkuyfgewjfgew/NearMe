@@ -55,11 +55,15 @@ Execute the programs and publish them.
     X coordinate <input type="text" name="" id="text1">
     Y coordinate <input type="text" name="" id="text2">
 </body>
-</html>```
+</html>
+```
 
 ## OUTPUT
-![Screenshot 2024-04-07 181425](https://github.com/feryjfgkuyfgewjfgew/NearMe/assets/150319377/06f9e92d-0134-4f72-aa0c-44672c8a0a8e)
-![new](https://github.com/feryjfgkuyfgewjfgew/NearMe/assets/150319377/0fbd300f-df96-47c6-9d83-5c14e3e826e6)
+![Screenshot 2024-04-07 181845](https://github.com/feryjfgkuyfgewjfgew/NearMe/assets/150319377/77011ca6-8ff5-4140-b8a2-eaa4affedb03)
+![Screenshot 2024-04-07 181817](https://github.com/feryjfgkuyfgewjfgew/NearMe/assets/150319377/0123167f-8a72-4bd6-a72c-c88b6061967c)
+![Screenshot 2024-04-07 181520](https://github.com/feryjfgkuyfgewjfgew/NearMe/assets/150319377/616d97e0-bc7e-434d-99e5-5aa06cf4b84a)
+![Screenshot 2024-04-07 181425](https://github.com/feryjfgkuyfgewjfgew/NearMe/assets/150319377/7be6a1a9-fb06-4331-aac5-bcbf7e8b1d6f)
+
 
 
 ## RESULT
